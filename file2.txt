@@ -1,1 +1,2 @@
 Hi! My file2
+Testing Three way branching : Blue
