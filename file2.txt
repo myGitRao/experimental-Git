@@ -1,2 +1,5 @@
 Hi! My file2
+
 Testing Three-way merge : Red
+Testing Three way branching : Blue
+
